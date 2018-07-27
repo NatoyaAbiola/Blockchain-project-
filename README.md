@@ -1,2 +1,2 @@
 # Blockchain-project-
-Learning Blockchain
+Learning Blockchain with JavaScript 
